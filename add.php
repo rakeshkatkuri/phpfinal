@@ -29,4 +29,6 @@
 	} else {
 		echo "Error: " . $sql . "<br>" . mysqli_error($mysqli);
 	}
+
+//handle attachment end coding
 ?>
