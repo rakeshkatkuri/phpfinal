@@ -1,6 +1,6 @@
 <?php
 	require_once('connectivity.php');
-
+//we get details here.
 	$issuetype= $_POST['issuetype'];
 	$issuedescription = $_POST['issuedescription'];
 	$issuestatus= $_POST['issuestatus'];
